@@ -24,7 +24,7 @@ A lightweight Python weather application that provides real-time weather informa
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/simple-weather-app.git
+git clone https://github.com/zishanrn2003/simple-weather-app.git
 cd simple-weather-app
 ```
 
@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 1. Run the application:
 ```bash
-python weather_app.py
+python Weather_app.py
 ```
 
 2. Enter a city name in the input field
@@ -48,10 +48,9 @@ python weather_app.py
 ```
 simple-weather-app/
 │
-├── weather_app.py         # Main application file
+├── Weather_app.py         # Main application file
 ├── requirements.txt       # Project dependencies
-├── screenshots/          # Application screenshots
-│   └── weather_app.png
+├── Screenshot.png          # Application screenshots
 └── README.md             # Project documentation
 ```
 
@@ -74,10 +73,6 @@ This project uses the WeatherAPI.com service. The API key is included in the cod
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Weather data provided by [WeatherAPI.com](https://www.weatherapi.com/)
@@ -85,8 +80,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-Your Name - [Your GitHub Profile](https://github.com/yourusername)
+Zishan Nadaf - [Your GitHub Profile](https://github.com/zishanrn2003)
 
 ## Support
 
-For support, email your.email@example.com or open an issue in the repository.
+For support, email zishanrn2003@example.com or open an issue in the repository.
