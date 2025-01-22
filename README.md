@@ -84,4 +84,4 @@ Zishan Nadaf - [Your GitHub Profile](https://github.com/zishanrn2003)
 
 ## Support
 
-For support, email zishanrn2003@example.com or open an issue in the repository.
+For support, email zishanrn2003@gmail.com or open an issue in the repository.
