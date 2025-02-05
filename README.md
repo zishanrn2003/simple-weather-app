@@ -80,7 +80,7 @@ This project uses the WeatherAPI.com service. The API key is included in the cod
 
 ## Author
 
-Zishan Nadaf - [Your GitHub Profile](https://github.com/zishanrn2003)
+Zishan Nadaf - [GitHub Profile](https://github.com/zishanrn2003)
 
 ## Support
 
